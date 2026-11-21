@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://munjavu.sanchaya.net/sitemap.xml
